@@ -1,0 +1,57 @@
+header{
+    background-color: #4d739c;
+    color:#fdfefe;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color:#fdfefe;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: #fdfefe;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    color:#fdfefe;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+article{
+    color:#fdfefe;
+    text-align: center;
+}
+
+ul{
+    color:#fdfefe;
+    text-align: center;
+    
+}
+
+body {
+    background-color:#2e4053;
+}
+
+div{
+    color:black;
+    text-align: center;
+ 
+}
+
+img{
+    text-align: center;
+}
+
+
+
+footer{
+     
+    color:#fdfefe;
+    text-align: center;
+}
